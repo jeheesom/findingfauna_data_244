@@ -1,0 +1,8 @@
+Average Precision Per-class:
+beluga: 0.002158405451010596
+bluewhale: 0.538084473297605
+boat: 0.27515524979392225
+hump: 0.07386053391995666
+orca: 0.0020511454580255015
+
+Average Precision Across All Classes:0.178261961584104
